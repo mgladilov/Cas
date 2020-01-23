@@ -233,9 +233,9 @@ namespace CAS.UI.UIControls.PurchaseControls.Purchase
 			this.buttonForAll.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
 			this.buttonForAll.Font = new System.Drawing.Font("Verdana", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
 			this.buttonForAll.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(62)))), ((int)(((byte)(155)))), ((int)(((byte)(246)))));
-			this.buttonForAll.Location = new System.Drawing.Point(740, 156);
+			this.buttonForAll.Location = new System.Drawing.Point(721, 156);
 			this.buttonForAll.Name = "buttonForAll";
-			this.buttonForAll.Size = new System.Drawing.Size(101, 33);
+			this.buttonForAll.Size = new System.Drawing.Size(120, 33);
 			this.buttonForAll.TabIndex = 304;
 			this.buttonForAll.Text = "Apply for all";
 			this.buttonForAll.Click += new System.EventHandler(this.buttonForAll_Click);
